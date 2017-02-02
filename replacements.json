@@ -1,4 +1,8 @@
 {
+  "fake news": [
+    "bobbins",
+    "porkie pies"
+  ],
   "Trump": [
     "Human meat sack",
     "Gross old man",
@@ -9,15 +13,21 @@
     "Agent Orange",
     "Ya Bam",
     "Roaster",
-    "Bigly Eejit"
+    "Bigly Eejit",
+    "Donald Chump",
+    "The idiot"
   ],
   "Brexit": [
     "Bucket",
     "Calamity",
-    "Breakfast"
+    "Breakfast",
+    "Breadsticks",
+    "Daft idea",
+    "Bollox"
   ],
   "London": [
-    "The best city in the world"
+    "The best city in the world",
+    "Dat Lundun"
   ],
   "Washington": [
     "Wankington"
@@ -640,6 +650,8 @@
     "special place"
   ],
   "Paul Nuttall": [
-    "What a bawbag"
+    "What a bawbag",
+    "scumface",
+    "The idiot"
   ]
 }
